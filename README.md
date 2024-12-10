@@ -4,4 +4,4 @@
 
 * 예시 이미지
 
-<img src="https://github.com/user-attachments/assets/7aea1c84-9e60-413c-9135-a5aedef3c3a5  width="200" height="400"/>
+<img src="https://github.com/noeyhihcgnawh/SimpleWeather/blob/main/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202024-12-10%20at%2016.54.38.png?raw=true.png"  width="200" height="450"/>
